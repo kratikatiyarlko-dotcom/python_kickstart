@@ -8,7 +8,7 @@ if a>b:
         print(a)
     else:
         print(c)
-else:qq
+else:
     if b>c:
         print(b)
     else:
